@@ -1,0 +1,18 @@
+# Arquivos compilados Java
+*.class
+
+# Arquivos auxiliares do BlueJ
+*.ctxt
+
+# Pastas de build/saída
+build/
+dist/
+out/
+bin/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.log
